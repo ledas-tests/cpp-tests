@@ -14,7 +14,7 @@ Opposite normals of adjacent faces mean that the orientation of these faces is n
 
 ## Input mesh
 
-For this task input mesh will be triangular mesh, i.e. all its faces will be triangles. The mesh should be loaded from the [OFF file](https://en.wikipedia.org/wiki/OFF_(file_format)), it is a simple text file. No need to support optional parts like comments or colors. Example files with meshes can be found in [example-meshes](./example-meshes) directory.
+For this task input mesh will be a triangular mesh, i.e. all its faces will be triangles. The mesh should be loaded from the [OFF file](https://en.wikipedia.org/wiki/OFF_(file_format)), it is a simple text file. No need to support optional parts like comments or colors. Example files with meshes can be found in [example-meshes](./example-meshes) directory.
 
 ## Expected result
 
