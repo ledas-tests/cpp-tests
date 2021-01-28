@@ -37,8 +37,6 @@ As a result of the implementation we expect a link to GitHub repository with the
 
 For the build configuration we prefer to use CMake, but MSVC solution, QtCreator project or any other build system can also be used. In any case please add read me file with the build instruction even if it is very simple one.
 
- Any third-party libraries like [VTK](https://vtk.org/), [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/) or [CGAL](https://www.cgal.org/) can be used but in such case some additional steps in the build instruction about the installation of the library are expected.
-
- ## Feedback
+  ## Feedback
 
 Any questions related to this task can be asked via [creating GitHub issues](../../../issues) for this repository.
