@@ -1,4 +1,4 @@
 # cpp-tests
 Small tasks for testing c++ knowledge:
 
-- [Non-manifold mesh parts](./non-manifold-mesh-parts/README.md)
+- [Non-manifold mesh vertices](./non-manifold-mesh-vertices/README.md)
